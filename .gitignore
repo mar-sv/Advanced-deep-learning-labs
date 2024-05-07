@@ -1,0 +1,4 @@
+*.jpeg
+*.jpg
+lab_3/data/cifar-10-batches-py/Images/1138784872_69ade3f2ab.jpg
+lab_2/data/MNIST/raw/t10k-labels-idx1-ubyte
